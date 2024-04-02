@@ -1,4 +1,0 @@
-environment = "local"
-project = "cloud"
-aws_region = "ap-east-1"
-aws_profile = "local-iac-terraform-ci"
