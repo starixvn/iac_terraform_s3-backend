@@ -26,3 +26,8 @@ variable "aws_profile" {
   description = "aws profile"
   type        = string
 }
+
+variable "team" {
+  description = "Team name"
+  type        = string
+}
